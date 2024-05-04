@@ -1,0 +1,16 @@
+.suggestion-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+  }
+  
+  .suggestion-item:hover {
+    background-color: #f0f0f0;
+  }
+  
+  @media (max-width: 768px) {
+    .suggestion-item {
+      font-size: 14px;
+    }
+  }
+  
